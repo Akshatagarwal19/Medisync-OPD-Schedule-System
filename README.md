@@ -72,7 +72,7 @@ The project currently includes:
 ## Screenshots
 
 ## Dashboard Ui 
-![Dashboard](./screenshots/Dashboarddemo.png)
+![Dashboard](screenshots/Dashboarddemo.png)
 Screenshots and demo previews will be added soon.
 
 ---
